@@ -1,0 +1,29 @@
+section{
+    font-weight: bold;
+   font-family: 'Roboto', sans-serif;
+ }
+ 
+ p{
+   color: pink;
+ }
+ 
+ .paragraph{
+   background-color: black;
+  
+ }
+ 
+ #paragraph2{
+   color: white;
+ }
+ 
+ #shirt-image{
+   width:50%;
+ }
+ 
+ .section-paragraph{
+   background-color: #C5C6C8;
+   color: black;
+   width: 50%;
+   padding: 10px 5px;
+   
+ }
